@@ -1,0 +1,174 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;0,900;1,300;1,500;1,700;1,900&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: roboto; 
+
+}
+header{
+    background-image: url(../assets/img/cabecera.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10px;
+    position: sticky;
+    top: 0;
+.navegacion {
+    .listaNav{
+        list-style: none;
+        text-align: right;
+        margin-right: 20px;
+
+    .listaItem{
+        display: inline-block;
+        margin-left: 10px; 
+        
+    .linkNav{
+        text-decoration: none;
+        color: rgb(236, 243, 158);
+        font-size: 1.2rem;
+        }
+    }
+    } 
+} 
+.h1{
+    font-size: 2.5rem;
+    color: rgb(236, 243, 158);
+    .EstilosTitulos{
+        color: rgb(49, 87, 44); 
+    }
+
+   }  
+.slogan{
+    margin-left: 10%;
+    display: inline;
+    color: rgb(236, 243, 158);
+}           
+}
+.main{
+    
+    .contenedorindex{
+        text-align: center;
+        margin-top: 50px;
+       
+        .subtituloH3{
+            font-size: 2rem;
+        }
+        .subtituloIndex{
+            margin-top: 30px;
+            font-size: 1.5rem;
+        }
+              
+    }
+    .contenedorTarjetas{
+        
+        width: 90%;
+        margin: 30px auto;
+           .tarjeta{
+            display: inline-block;
+            margin: 10px;
+            width: 30%;
+            height: auto;
+            border: 1px solid rgb(19, 42, 19);
+            background-color: rgb(236, 243, 158);
+            border-radius: 40px 40px 40px 40px;
+            box-shadow: 10px 10px 5px 0px rgba(186,177,177,0.75);
+                        
+            .imgTarjeta {
+                 width: 95%;
+                 margin: 10px;
+               object-fit: cover;
+               border-radius: 10%;
+                }   
+    
+                .bodytarjeta{
+                    padding: 10xp;    
+                    }
+                    .titulos3{
+                        margin: 10px 50px 5px 15px;
+                    } 
+                    .parrafotarjeta{
+                        padding: 20px;
+                                    
+                    }
+       }
+    
+    }
+    
+}
+
+.logo{
+    width: 100px;
+    margin: 10px;
+     } 
+     .iconowsp{
+        position: fixed;
+        right: 20px;
+        bottom: 15px;
+    
+        .fa-whatsapp {
+            color: rgb(144, 169, 85);
+            font-size: 5rem;
+        }
+    }
+.footer{
+    padding-left: 20px;
+    background-color: rgb(19, 42, 19);
+    color: rgb(236, 243, 158);
+
+.textofooter{
+    text-align: left;
+    margin-left: 80px;
+}
+.ubicacion {
+    margin-left: 80px;
+    padding-bottom: 40px;
+
+}
+.fa-envelope{
+    padding-top: 200px;
+}
+.fa-map-location-do {
+    padding-left: 600px;
+}
+.logo {
+        width: 100px;
+        margin: 20px;
+         }
+
+.iconossociales{
+    display: inline-block;
+    margin-left: 70px;
+    padding-left: 50px;
+    padding-bottom: 40px;
+    color: rgb(236, 243, 158);
+    font-size: 1.5rem; 
+}  
+}
+/*blog*/
+.blog {
+    padding: 30px;
+}
+.tblog {
+    color: darkgreen;
+}
+.tituloblog {
+    text-align: center;
+}
+
+.titulo1 {
+    font-size: 40px;
+}
+
+.incendios {
+    height: 350px;
+    width: 350px;
+}
+.imgservicio {
+    width: auto;
+    height: auto;
+    margin-left: 40px;
+
+}
