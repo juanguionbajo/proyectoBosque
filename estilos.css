@@ -156,4 +156,8 @@ header .slogan {
   width: auto;
   height: auto;
   margin-left: 40px;
+}
+
+.carousel-indicators {
+  position: absolute;
 }/*# sourceMappingURL=estilos.css.map */
