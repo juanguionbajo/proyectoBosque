@@ -152,12 +152,17 @@ header .slogan {
   width: 350px;
 }
 
-.imgservicio {
+.carruselservicios {
   width: auto;
   height: auto;
   margin-left: 40px;
 }
 
-.carousel-indicators {
-  position: absolute;
+.h5carrousel {
+  color: aliceblue;
+  font-size: medium;
+}
+
+.textocarrousel {
+  color: aliceblue;
 }/*# sourceMappingURL=estilos.css.map */
